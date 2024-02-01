@@ -24,9 +24,8 @@ Citation: Kincey, M. E., Rosser, N. J., Robinson, T. R., Densmore, A. L., Shrest
 
 
 ## 2. Results
-## Annual inventory over the Himalaya 1992-2021
-
-https://drive.google.com/drive/folders/1rDdz74uaIhisDWuIKwF2KMbbIdxUOgZC?usp=sharing
+## Annual landslide density of 990m resolution over the Himalaya 1992-2021
+https://drive.google.com/drive/folders/1Y968wBGfqaEr9ppkRI7k7Db3wmW2JCBf?usp=drive_link
 
 ## Persistence, recurrence, and first occurrence
 https://drive.google.com/drive/folders/19MuQKhtJKtJ3knf7kyyxS_LJWumv4lRU?usp=sharing
