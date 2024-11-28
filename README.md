@@ -1,6 +1,7 @@
 # Identifying recurrent and persistent landslide scars using deep learning: a 30-year analysis of the Himalaya
 
-Note: This repository is open for review process. Code will be released once published.
+Citation: 
+Chen, T. H. K., Kincey, M. E., Rosser, N. J., & Seto, K. C. (2024). Identifying recurrent and persistent landslides using satellite imagery and deep learning: A 30-year analysis of the Himalaya. Science of the Total Environment, 922, 171161.
 
 ## 1. Data collection
 
